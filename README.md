@@ -1,1 +1,8 @@
-# Donley-Nash
+# Hi, I'm Donley and I'm studying to be a data analyst
+
+Hi, I'm Donley and I am currently studying with TripleTen to be a data analyst with experience on multiple projects and gaining more knowledge and expereince every day.  My skills include business analystics, data visualization and storytelling, Tableau, SQL, Excel, and Google Sheets.  Now I am eager to leverage my growing data and visualization skills along with my skills and experinece as a lifelong musician in the media, music, and greater art fields to drive growth and address business needs.
+
+My experinece in the TripleTen program has helped me develop my analytical, problem-solving, and time-management skills.  The curriculum covered data visualization, data analytics, machine learning, and more.  Through the many practical projects I gained valuable experience with practical data analystics, visualizations, and presentations.  I have also gained valuable pracitcal skills outside of the TripleTen course, most notably is through my lifetime of experience as a musician, including in my experience achieving my bachelor's degree in jazz studies from the University of Michigan.  Through this I developed excellent improvisation, communication, pattern recognition skills, and more.  It is not the most conventional path to the data analytics world but this does provide me with a unique perspective and set of skills that can provide a new look at data analysis and an artistic eye to create stunning visualizations and presentations to best communicate my ideas and adapt to any audience.
+
+You can view my Linkedin page here: https://www.linkedin.com/in/donleynash/
+Feel free to reach out through Linkedin or by email at donleynash@gmail.com
