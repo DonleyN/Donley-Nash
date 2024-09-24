@@ -1,4 +1,4 @@
-# Hi, I'm Donley and I'm studying to be a data analyst
+# Donley Nash - Data Analyst
 
 Hi, I'm Donley and I am currently studying with TripleTen to be a data analyst with experience on multiple projects and gaining more knowledge and expereince every day.  My skills include business analystics, data visualization and storytelling, Tableau, SQL, Excel, and Google Sheets.  Now I am eager to leverage my growing data and visualization skills along with my skills and experinece as a lifelong musician in the media, music, and greater art fields to drive growth and address business needs.
 
